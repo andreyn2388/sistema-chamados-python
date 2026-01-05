@@ -1,5 +1,4 @@
-Sistema de Chamados Internos — Python
-📌 Sobre o projeto
+ Sobre o projeto
 
 Este projeto é um Sistema de Chamados Internos desenvolvido em Python com o objetivo de organizar solicitações dentro de uma empresa.
 
@@ -18,7 +17,7 @@ Lista os chamados cadastrados de forma organizada
 
 Mesmo sendo um sistema simples, ele resolve um problema real de organização e comunicação interna.
 
-🧠 O que foi trabalhado neste projeto
+ O que foi trabalhado neste projeto
 
 Durante o desenvolvimento, foram aplicados conceitos importantes como:
 
@@ -44,17 +43,17 @@ SQLite
 
 Biblioteca padrão sqlite3
 
-📂 Estrutura do projeto
-📁 sistema-chamados-python
- ├─ chamados.py
- └─ chamados.db
+ Estrutura do projeto
+ sistema-chamados-python
+  chamados.py
+  chamados.db
 
 
 chamados.py: arquivo principal do sistema
 
 chamados.db: banco de dados gerado automaticamente
 
-▶️ Como executar
+ Como executar
 
 Certifique-se de ter o Python instalado
 
@@ -71,7 +70,7 @@ Escolha uma das opções no menu:
 
 2 para listar chamados
 
-🚀 Observações finais
+ Observações finais
 
 Este projeto tem foco em clareza, prática e aprendizado contínuo.
 Ele pode ser evoluído com novas funcionalidades, como atualização de status, filtros por setor ou até uma interface gráfica no futuro.
